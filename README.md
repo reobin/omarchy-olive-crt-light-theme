@@ -1,6 +1,6 @@
 # `omarchy-olive-crt-light-theme`
 
-`omarchy-olive-crt-light-theme` is a light Omarchy theme built around [`reobin/olive-crt.nvim`](https://github.com/reobin/olive-crt.nvim).
+`omarchy-olive-crt-light-theme` is a light Omarchy theme built around [`vimcolorschemes/olive-crt.nvim`](https://github.com/vimcolorschemes/olive-crt.nvim).
 
 ![olive-crt light for Omarchy](preview.png)
 
